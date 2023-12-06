@@ -49,7 +49,7 @@
 - ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA | 2023** 
 - [`Click to view certificate`](http://cert.software-testing.ru/362969244439151185)
 - ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer) | 2023**
-- [`Click to view certificate`]()
+- [`Click to view certificate`](https://drive.google.com/file/d/1d6an-ZZSTCkx-zbz_g5sQT4Rlb6Zl59K/view)
 - ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA | 2023**
 - [`Click to view certificate`](http://cert.software-testing.ru/365757321050063441)
 - ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
@@ -58,8 +58,8 @@
 <p align="center">
 <div style="text-align: center;">
 <code><a href="https://qa.guru/"><img width="10%" title="QA.GURU" src="images/courses/qaguru.png" alt="QA.GURU Logo"></code>
-<code><a href="https://software-testing.ru/edu/index.php"><img width="10%" title="LearnQA" src="images/courses/LearnQA.png" alt="LearnQA Logo"></code>
-<code><a href="https://software-testing.ru/edu/index.php"><img width="10%" title="Software Testing" src="images/courses/softwareTesting.png" alt="Software Testing Logo"></code>
+<code><a href="https://software-testing.ru/edu/3-online/329-rest-api-java"><img width="10%" title="LearnQA" src="images/courses/LearnQA.png" alt="LearnQA Logo"></code>
+<code><a href="https://software-testing.ru/edu/3-online/1-java-for-testers"><img width="10%" title="Software Testing" src="images/courses/softwareTesting.png" alt="Software Testing Logo"></code>
 <code><a href="https://javarush.com/"><img width="10%" title="JavaRush" src="images/courses/javarush.png" alt="JavaRush Logo"></code>
 </div>
 
