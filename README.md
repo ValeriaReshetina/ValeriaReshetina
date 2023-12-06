@@ -11,21 +11,22 @@
 <h3 align="center"> My work stack: </h3>
 <p align="center">
 <div style="text-align: center;">
-<code><img width="6%" title="IntelliJ IDEA" src="images/logo/idea.png" alt="IntelliJ IDEA Logo"></code>
-<code><img width="6%" title="GitHub" src="images/logo/github.png" alt="GitHub Logo"></code>
-<code><img width="6%" title="Java" src="images/logo/java.png" alt="Java Logo"></code>
-<code><img width="5%" title="Rest Assured" src="images/logo/restAssured.png" alt="Rest Assured Logo"></code>
-<code><img width="5%" title="Junit5" src="images/logo/junit5.png" alt="JUnit5 Logo"></code>
-<code><img width="5%" title="TestNG" src="images/logo/testng.png" alt="TestNG Logo"></code>
-<code><img width="6%" title="Gradle" src="images/logo/gradle.png" alt="Gradle Logo"></code>
-<code><img width="5%" title="Maven" src="images/logo/maven.png" alt="Maven Logo"></code>
-<code><img width="5%" title="Selenium" src="images/logo/selenium.png" alt="Selenium Logo"></code>
-<code><img width="6%" title="Selenide" src="images/logo/selenide.png" alt="Selenide Logo"></code>
-<code><img width="6%" title="Jenkins" src="images/logo/jenkins.png" alt="Jenkins Logo"></code>
-<code><img width="6%" title="Selenoid" src="images/logo/selenoid.png" alt="Selenoid Logo"></code>
-<code><img width="5%" title="Allure Report" src="images/logo/allure.png" alt="Allure Report Logo"></code>
-<code><img width="5%" title="Allure TestOps" src="images/logo/allureTestops.png" alt="Allure TestOps Logo"></code>
-<code><img width="5%" title="Jira" src="images/logo/jira.png" alt="Jira Logo"></code>
+<code><img width="7%" title="IntelliJ IDEA" src="images/logo/idea.png" alt="IntelliJ IDEA Logo"></code>
+<code><img width="7%" title="GitHub" src="images/logo/github.png" alt="GitHub Logo"></code>
+<code><img width="7%" title="Java" src="images/logo/java.png" alt="Java Logo"></code>
+<code><img width="6%" title="Rest Assured" src="images/logo/restAssured.png" alt="Rest Assured Logo"></code>
+<code><img width="6%" title="Junit5" src="images/logo/junit5.png" alt="JUnit5 Logo"></code>
+<code><img width="6%" title="TestNG" src="images/logo/testng.png" alt="TestNG Logo"></code>
+<code><img width="7%" title="Gradle" src="images/logo/gradle.png" alt="Gradle Logo"></code>
+<code><img width="6%" title="Maven" src="images/logo/maven.png" alt="Maven Logo"></code>
+<code><img width="6%" title="Selenium" src="images/logo/selenium.png" alt="Selenium Logo"></code>
+<code><img width="7%" title="Selenide" src="images/logo/selenide.png" alt="Selenide Logo"></code>
+<code><img width="7%" title="Jenkins" src="images/logo/jenkins.png" alt="Jenkins Logo"></code>
+<code><img width="7%" title="Selenoid" src="images/logo/selenoid.png" alt="Selenoid Logo"></code>
+<code><img width="6%" title="Allure Report" src="images/logo/allure.png" alt="Allure Report Logo"></code>
+<code><img width="6%" title="Allure TestOps" src="images/logo/allureTestops.png" alt="Allure TestOps Logo"></code>
+<code><img width="6%" title="Jira" src="images/logo/jira.png" alt="Jira Logo"></code>
+<code><img width="6%" title="Jira" src="images/logo/testit.png" alt="TestIT Logo"></code>
 </div>
 
 <center>
