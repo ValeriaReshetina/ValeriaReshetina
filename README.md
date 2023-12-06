@@ -8,8 +8,7 @@
 
 <h3 align="center"> I write automated tests on Java and always being open to interesting projects</h3>
 
-
-### My work stack:
+<h3 align="center"> My work stack: </h3>
 <p align="center">
 <div style="text-align: center;">
 <code><img width="6%" title="IntelliJ IDEA" src="images/logo/idea.png" alt="IntelliJ IDEA Logo"></code>
@@ -43,13 +42,16 @@
 <center>
 
 ## 📋My completed courses and projects
-### I never stand still and always learn something new. My norm is 2-3 courses per year
+### I never stand still and always learn something new. My standard is 2-3 completed courses per year
 </center>
 
-- ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA**
+- ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA** 
+- [`Click to view certificate`](http://cert.software-testing.ru/362969244439151185)
 - ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer)**
 - ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA**
+- [`Click to view certificate`](http://cert.software-testing.ru/365757321050063441)
 - ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
+- [`Click to view certificate`](http://cert.software-testing.ru/369313244459827792)
 - ✔️ **JavaRush Course | Blocks `Java Syntax New` and `Java Core` till 20th level**
 
 
