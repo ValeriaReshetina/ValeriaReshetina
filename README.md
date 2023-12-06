@@ -51,9 +51,12 @@
 
 ### 📋My completed courses and projects
 #### I never stand still and always learn something new. My norm is 2-3 courses per year
-✔
-✔
-✔
-✔
-
 </center>
+
+- ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA**
+- ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer)**
+- ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA**
+- ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
+- ✔️ **JavaRush Course | Blocks `Java Syntax New` and `Java Core` till 20th level**
+
+
