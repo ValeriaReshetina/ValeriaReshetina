@@ -46,15 +46,15 @@
 ### I never stand still and always learn something new. My standard for professional growth is 2-3 completed courses per year
 </center>
 
-- #### ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA | 2023** 
+- ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA | 2023** 
 - [`Click to view certificate`](http://cert.software-testing.ru/362969244439151185)
-  #### ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer) | 2023**
+- ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer) | 2023**
 - [`Click to view certificate`]()
-  #### ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA | 2023**
+- ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA | 2023**
 - [`Click to view certificate`](http://cert.software-testing.ru/365757321050063441)
-  #### ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
+- ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
 - [`Click to view certificate`](http://cert.software-testing.ru/369313244459827792)
-  #### ✔️ **JavaRush Course | Blocks `Java Syntax New` and `Java Core` till 20th level | 2022**
+- ✔️ **JavaRush Course | Blocks `Java Syntax New` and `Java Core` till 20th level | 2022**
 <p align="center">
 <div style="text-align: center;">
 <code><a href="https://qa.guru/"><img width="10%" title="QA.GURU" src="images/courses/qaguru.png" alt="QA.GURU Logo"></code>
