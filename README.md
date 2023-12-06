@@ -1,12 +1,12 @@
-<h3 align="center"> Welcome to my GitHub Page, I'm Valery </h3>
+<h1 align="center"> Welcome to my GitHub Page, I'm Valery </h1>
 
  <p align="center">
 <b><img width="35%" title="MyPhoto" src="images/photo/photo2.png" alt="IntelliJ IDEA Logo"></b>
 </p>
 
-<h3 align="center"> I’m Test Automation Engineer </h3>
+<h2 align="center"> I’m Test Automation Engineer </h2>
 
-<h4 align="center"> I write automated tests on Java and always being open to interesting projects</h4>
+<h3 align="center"> I write automated tests on Java and always being open to interesting projects</h3>
 
 
 ### My work stack:
@@ -42,8 +42,8 @@
 
 <center>
 
-### 📋My completed courses and projects
-#### I never stand still and always learn something new. My norm is 2-3 courses per year
+## 📋My completed courses and projects
+### I never stand still and always learn something new. My norm is 2-3 courses per year
 </center>
 
 - ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA**
