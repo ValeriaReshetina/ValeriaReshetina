@@ -23,6 +23,9 @@
 <code><img width="7%" title="Selenide" src="images/logo/selenide.png" alt="Selenide Logo"></code>
 <code><img width="7%" title="Jenkins" src="images/logo/jenkins.png" alt="Jenkins Logo"></code>
 <code><img width="7%" title="Selenoid" src="images/logo/selenoid.png" alt="Selenoid Logo"></code>
+</div>
+<p align="center">
+<div style="text-align: center;">
 <code><img width="6%" title="Allure Report" src="images/logo/allure.png" alt="Allure Report Logo"></code>
 <code><img width="6%" title="Allure TestOps" src="images/logo/allureTestops.png" alt="Allure TestOps Logo"></code>
 <code><img width="6%" title="Jira" src="images/logo/jira.png" alt="Jira Logo"></code>
