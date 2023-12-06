@@ -26,7 +26,7 @@
 <code><img width="6%" title="Allure Report" src="images/logo/allure.png" alt="Allure Report Logo"></code>
 <code><img width="6%" title="Allure TestOps" src="images/logo/allureTestops.png" alt="Allure TestOps Logo"></code>
 <code><img width="6%" title="Jira" src="images/logo/jira.png" alt="Jira Logo"></code>
-<code><img width="6%" title="Jira" src="images/logo/testit.png" alt="TestIT Logo"></code>
+<code><img width="6%" title="TestIT" src="images/logo/testit.png" alt="TestIT Logo"></code>
 </div>
 
 <center>
@@ -42,17 +42,24 @@
 
 <center>
 
-## 📋My completed courses and projects
-### I never stand still and always learn something new. My standard is 2-3 completed courses per year
+## 📋My completed courses and projects:
+### I never stand still and always learn something new. My standard for professional growth is 2-3 completed courses per year
 </center>
 
 - ✔️ **Java Programming for Testers | Alexey Barantsev | Trainings for QA** 
 - [`Click to view certificate`](http://cert.software-testing.ru/362969244439151185)
 - ✔️ **School of Test Automation Engineers on Java | Alexey Vinogradov (`Selenide` developer), Artem Eroshenko (`Allure Reports`, `Allure TestOps` developer)**
+- [`Click to view certificate`]()
 - ✔️ **Automation of REST API testing on Java | Arseny Batyrov | LearnQA**
 - [`Click to view certificate`](http://cert.software-testing.ru/365757321050063441)
 - ✔️ **Selenium WebDriver: The Complete Guide, the most complete and in-depth course on the `Selenium` tool | Alexey Barantsev (`Selenium` developer) | Trainings for QA**
 - [`Click to view certificate`](http://cert.software-testing.ru/369313244459827792)
 - ✔️ **JavaRush Course | Blocks `Java Syntax New` and `Java Core` till 20th level**
-
+<p align="center">
+<div style="text-align: center;">
+<code><a href="https://qa.guru/"><img width="10%" title="QA.GURU" src="images/courses/qaguru.png" alt="QA.GURU Logo"></code>
+<code><a href="https://software-testing.ru/edu/index.php"><img width="10%" title="LearnQA" src="images/courses/LearnQA.png" alt="LearnQA Logo"></code>
+<code><a href="https://software-testing.ru/edu/index.php"><img width="10%" title="Software Testing" src="images/courses/softwareTesting.png" alt="Software Testing Logo"></code>
+<code><a href="https://javarush.com/"><img width="10%" title="JavaRush" src="images/courses/javarush.png" alt="JavaRush Logo"></code>
+</div>
 
